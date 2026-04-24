@@ -78,6 +78,7 @@ It provides business insights into **sales, quantity, profit, and payment patter
 ---
 
 ## 📸 Dashboard Preview
+<img width="1459" height="837" alt="image" src="https://github.com/user-attachments/assets/0254c2e9-0186-4b0b-8504-5909ce4aece3" />
 
 
 
